@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+
+# Model files
+*.pt
+yolov8n.pt
+
+# Videos
+videos/
+*.mp4
+
+# Event logs
+events.jsonl
+backend/events.jsonl
+
+# VS Code
+.vscode/
+
+# Windows
+desktop.ini
+
+# Environment
+.env
