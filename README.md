@@ -277,6 +277,24 @@ Add screenshots here:
 
 ---
 
+## 🎥 Demo Video
+
+Watch the complete project demonstration here:
+
+**Demo Link:** https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing
+
+The demo showcases:
+
+* YOLOv8 Customer Detection
+* ByteTrack Customer Tracking
+* Entry Analytics
+* Zone Analytics
+* Billing Analytics
+* Queue Alerts
+* FastAPI APIs
+* Streamlit Dashboard
+---
+
 ## Future Improvements
 
 - Dwell Time Analytics
