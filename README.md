@@ -29,7 +29,7 @@ Build an end-to-end Store Intelligence System using CCTV footage capable of:
 ###  Customer Detection
 
 Uses YOLOv8 to detect customers from CCTV footage.
-
++
 ###  Customer Tracking
 
 Uses ByteTrack to maintain unique customer IDs across frames.
